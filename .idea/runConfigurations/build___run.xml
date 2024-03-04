@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="build &amp; run" type="OdinRunConfiguration" factoryName="OdinRunConfiguration">
+    <option name="compilerOptions" />
+    <option name="programArguments" />
+    <option name="projectDirectoryPath" value="$PROJECT_DIR$/src" />
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
